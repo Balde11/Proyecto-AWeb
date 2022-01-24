@@ -1,0 +1,17 @@
+body{
+    background-color: rgba(0, 0, 0, 0.945);
+}
+header{
+   text-align: center;
+    padding: 70px;
+    background-color: black;
+   color: brown;
+    margin: 10px;
+    background-image: url();
+    border: 10px rgb(18, 61, 143) solid;
+}
+header img{
+    width: 10%;
+    margin-left: 90%;
+   height: 10%;
+}
